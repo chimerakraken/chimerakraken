@@ -11,6 +11,7 @@ Motivated with years of experience in the Software Development field. Resourcefu
 ✅ API Integration <br />
 ✅ Telegram bots <br />
 ✅ Mobile App Development with Java <br />
+✅ Laravel Livewire <br />
 ✅ Designing Web Applications with Tailwindcss and Alpine.js <br /> <br /> <br />
 
 
