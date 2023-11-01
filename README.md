@@ -8,7 +8,8 @@ Drawing upon years of experience in the Software Development field, I am highly 
 ✅ Server-side automation with C# <br />
 ✅ API Integration <br />
 ✅ Unit Testing, and Integration Testing <br />
-✅ CI/CD Integration <br />
+✅ Azure Devops <br />
+✅ Amazon S3 <br /> <br />
 ✅ Version control with GIT or Team Foundation Server (TFS) <br />
 ✅ REST API <br />
 ✅ Mail servers <br /> <br />
