@@ -12,10 +12,10 @@ Drawing upon years of experience in the Software Development field, I am highly 
 ✅ Amazon S3 <br /> <br />
 ✅ Version control with GIT or Team Foundation Server (TFS) <br />
 ✅ REST API <br />
-✅ Mail servers <br /> <br />
-✅ Reactjs <br /> <br />
-✅ Typescript <br /> <br />
-✅ GraphQL <br /> <br />
+✅ Mail servers <br /> 
+✅ Reactjs <br /> 
+✅ Typescript <br /> 
+✅ GraphQL <br /> 
 
 Reach out to me: <br /> 
 johnnyrufinojr@gmail.com
